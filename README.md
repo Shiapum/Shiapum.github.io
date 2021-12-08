@@ -19,4 +19,6 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 ## Summary
 The page would be more interesting if in the UFO sightings we can have a link to the picture or video of the sighting. 
+
 Additionaly, instead of having a textbox, change to a dropbox so the user can know what information is available and filters with no information can't be displayed. 
+
